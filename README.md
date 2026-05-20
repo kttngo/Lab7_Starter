@@ -9,6 +9,6 @@
 **Question 3:** Upon loading, Navigation mode focuses on overall page performance and lets users know metrics such as loading speed and rend-blocking resources. On the other hand, Snapshot mode analyzes the webpage in its current state, identifying accessibility issues. It does not evaluate interactions or JS performance like the other mode.
 
 **Question 4:**
-1. Add a lang attribute to the <html> element to improve accessibility for screen readers.
+1. Add a lang attribute to the `html` element to improve accessibility for screen readers.
 2. Add a meta description to improve the website's SEO score and help search engines better understand page content.
 3. Reduce render-blocking resources and improve cache lifetimes to make the page load even more efficiently.
